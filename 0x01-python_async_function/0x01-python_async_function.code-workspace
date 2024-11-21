@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../0x02-python_async_comprehension"
+		},
+		{
+			"path": "../0x03-Unittests_and_integration_tests"
+		}
+	]
+}
